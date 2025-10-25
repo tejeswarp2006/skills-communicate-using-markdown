@@ -7,3 +7,6 @@
 int a = 10;
 if(a>1) printf("True");
 ```
+
+- [ ] This is a checkbox
+- [x] This is a Tick
